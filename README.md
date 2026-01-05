@@ -1,10 +1,10 @@
-Hi 👋 My name is Rohan Irkullawar
+Hi, My name is Rohan Irkullawar
 =================================
 
-Software Engineer
+Software Developer 
 -----------------
 
-Hi, I am Rohan. I’m a recent graduate who’s genuinely interested in software development. I’ve been working with Java and learning core programming concepts by building small projects. Right now, I’m focused on improving my skills and looking for an opportunity where I can learn from real world work and contribute to a team.
+Hi, I’m Rohan. I believe skills matter more than titles, so I focus on learning by building real things. I’m currently shaping myself as a software developer and looking for environments where curiosity and effort are valued.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [irkullawarrohan@gmail.com](mailto:irkullawarrohan@gmail.com)
