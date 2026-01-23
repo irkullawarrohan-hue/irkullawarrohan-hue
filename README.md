@@ -1,7 +1,7 @@
 Hi, My name is Rohan Irkullawar
 =================================
 
-Software Developer 
+Backend Developer 
 -----------------
 
 Hi, I’m Rohan. I believe skills matter more than titles, so I focus on learning by building real things. I’m currently shaping myself as a software developer and looking for environments where curiosity and effort are valued.
