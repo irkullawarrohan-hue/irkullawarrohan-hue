@@ -21,8 +21,18 @@ I am actively looking for junior cloud roles including Cloud Support Engineer, A
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-irkullawar-393484297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irkullawarrohan@gmail.com) 
 
-#  Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# Tech Stack:
+
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=plastic&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white)
+![Shell%2FBash-121011](https://img.shields.io/badge/Shell%2FBash-121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=plastic&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
+
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irkullawarrohan-hue&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
