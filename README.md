@@ -33,8 +33,3 @@ I am actively looking for junior cloud roles including Cloud Support Engineer, A
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=plastic&logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irkullawarrohan-hue&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=irkullawarrohan-hue&icon=0&color=0)](https://visitcount.itsvg.in)
