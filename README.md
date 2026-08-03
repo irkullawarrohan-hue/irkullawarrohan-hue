@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Irkullawar
 
-### Cloud & DevOps Engineer
+## Cloud & DevOps Engineer
 
 Building production-inspired cloud infrastructure using **AWS, Terraform, Docker, Kubernetes, GitHub Actions, and Linux.**
 
@@ -11,9 +11,8 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 </p>
 
 
---
 
-## About Me
+# About Me
 
 I'm a Computer Science graduate and aspiring Cloud & DevOps Engineer focused on building production-inspired infrastructure on AWS.
 
@@ -36,49 +35,26 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 
 
 
-# ☁️ AWS Services
+# AWS Services
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Application_Load_Balancer-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Security_Groups-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network_ACLs-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=alb" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=amplify" height="50"/>
+  
 </p>
 
----
-
-# ⭐ Featured Projects
-
-| Project | Technologies | Description |
-|----------|--------------|-------------|
-| 🚀 Terraform AWS Infrastructure | Terraform, AWS | Provisioned modular AWS infrastructure with VPC, ALB, ECS Fargate, IAM and GitHub Actions. |
-| 🐳 Containerized LMS Migration | Docker, ECS, ECR | Migrated and deployed a containerized application using ECS Fargate and Application Load Balancer. |
-| 📊 Cloud Monitoring & Auto Remediation | CloudWatch, Lambda, SNS | Automated cloud monitoring and security response using AWS serverless services. |
-| ⚙️ CI/CD Pipeline | GitHub Actions | Automated testing, Docker image builds, Amazon ECR pushes and ECS deployments. |
-| 🛒 Repair Shop Deployment | AWS | Production-style cloud deployment with scalable infrastructure and networking. |
-
----
 
 
 # 📫 Connect With Me
@@ -89,7 +65,6 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 
 📧 Email: irkullawarrohan@gmail.com
 
----
 
 <p align="center">
 Building, learning, and improving one cloud project at a time.
