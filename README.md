@@ -1,35 +1,108 @@
-# About Me:
-I am a B.Tech Computer Science graduate from SR University, Warangal, with hands-on experience designing, deploying, and troubleshooting AWS cloud infrastructure across five end-to-end projects built around real business scenarios. 
+# Hi, I'm Rohan 👋
 
+### Cloud & DevOps Engineer
 
+Building production-inspired cloud infrastructure using **AWS, Terraform, Docker, Kubernetes, GitHub Actions, and Linux.**
 
-My AWS work covers CI/CD pipeline automation using CodePipeline, CodeDeploy, EC2, and Nginx — where I diagnosed four pipeline failures and recovered an estimated $25,000 per hour in lost e-commerce revenue. I built a cloud monitoring and auto-remediation system for a financial services environment using CloudWatch, Lambda, GuardDuty, and SNS — cutting incident response time from hours to under 30 seconds and containing a port scan attack with a formal incident report. I deployed a full-stack production application across Amplify, Elastic Beanstalk, RDS, and CloudFront serving 50 field technicians. I debugged a serverless production outage across API Gateway, Lambda, DynamoDB, and SNS — tracing five root causes through structured CloudWatch log analysis. I containerised a React LMS on ECS Fargate using Docker, ECR, and an Application Load Balancer, raising platform availability from 92% to 99.9% and reducing mean time to resolution by 65%.
+<p align="left">
+  <a href="https://rohanirkullawar.in">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-rohanirkullawar.in-0A0A0A?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:irkullawarrohan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
+# 🚀 About Me
 
-The AWS services I work with include EC2, IAM, CodePipeline, CodeDeploy, CloudWatch, Lambda, SNS, GuardDuty, Elastic Beanstalk, Amplify, RDS, CloudFront, ECS Fargate, ECR, ALB, API Gateway, DynamoDB, CloudFormation, VPC, NACLs, and Security Groups.  
+- 🎓 B.Tech Computer Science Graduate from SR University, Warangal
+- ☁️ Specializing in Cloud & DevOps Engineering
+- 🏗️ Passionate about Infrastructure as Code, CI/CD, Cloud Automation, and Container Platforms
+- ⚙️ Building production-inspired AWS projects to understand how modern cloud systems operate
+- 🌱 Continuously learning and improving through real-world engineering projects
 
+---
 
+# 🛠 Tech Stack
 
-I also completed a three-month paid internship at Revithalize Mobility Private Limited, Warangal, where I built REST APIs using Flask and MongoDB Atlas for a real-time electric vehicle monitoring system. This experience strengthened my Python scripting skills, which I apply directly in AWS Lambda functions and cloud automation. 
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonaws)
 
-I am actively looking for junior cloud roles including Cloud Support Engineer, AWS Support Engineer, Cloud Operations Engineer, and Junior DevOps Engineer. I am open to full-time positions and internships across Hyderabad, Bengaluru, or remote.  
+### 🚀 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
 
+### 📊 Monitoring
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-irkullawar-393484297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irkullawarrohan@gmail.com) 
+### 💻 Languages & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-# Tech Stack:
+---
 
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=plastic&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white)
-![Shell%2FBash-121011](https://img.shields.io/badge/Shell%2FBash-121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=plastic&logo=prometheus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
+# ☁️ AWS Services
 
+EC2 • IAM • VPC • ECS • ECR • ALB • CloudWatch • Lambda • SNS • API Gateway • RDS • DynamoDB • CloudFront • S3 • Security Groups • NACL • CloudFormation • Elastic Beanstalk • Amplify
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Technologies | Description |
+|----------|--------------|-------------|
+| 🚀 Terraform AWS Infrastructure | Terraform, AWS | Provisioned modular AWS infrastructure with VPC, ALB, ECS Fargate, IAM and GitHub Actions. |
+| 🐳 Containerized LMS Migration | Docker, ECS, ECR | Migrated and deployed a containerized application using ECS Fargate and Application Load Balancer. |
+| 📊 Cloud Monitoring & Auto Remediation | CloudWatch, Lambda, SNS | Automated cloud monitoring and security response using AWS serverless services. |
+| ⚙️ CI/CD Pipeline | GitHub Actions | Automated testing, Docker image builds, Amazon ECR pushes and ECS deployments. |
+| 🛒 Repair Shop Deployment | AWS | Production-style cloud deployment with scalable infrastructure and networking. |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=irkullawarrohan-hue&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkullawarrohan-hue&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=irkullawarrohan-hue&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio: https://rohanirkullawar.in
+
+💼 LinkedIn: https://www.linkedin.com/in/rohan-irkullawar-393484297/
+
+📧 Email: irkullawarrohan@gmail.com
+
+---
+
+<p align="center">
+Building, learning, and improving one cloud project at a time.
+</p>
