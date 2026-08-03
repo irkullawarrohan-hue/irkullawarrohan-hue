@@ -14,11 +14,11 @@ I build scalable cloud infrastructure, automate deployments, and deploy containe
 
 # About Me
 
-# Computer Science graduate from **SR University**
+#### Computer Science graduate from **SR University**
 
-### Focused on **Cloud & DevOps Engineering**
+#### Focused on **Cloud & DevOps Engineering**
 
-### Built multiple production-inspired cloud projects covering:
+#### Built multiple production-inspired cloud projects covering:
 
 - Infrastructure as Code with Terraform
 - Containerization using Docker
