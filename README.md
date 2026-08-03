@@ -40,18 +40,42 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 
 ## ☁️ AWS Services
 
+## ☁️ AWS Services
+
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=eks" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=alb" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=codepipeline" height="52"/>
+
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/ALB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+&nbsp;
+
+<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 </p>
 
 ---
