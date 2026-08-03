@@ -14,19 +14,19 @@ I build scalable cloud infrastructure, automate deployments, and deploy containe
 
 # About Me
 
-1. Computer Science graduate from **SR University**
+### Computer Science graduate from **SR University**
 
-2. Focused on **Cloud & DevOps Engineering**
+### Focused on **Cloud & DevOps Engineering**
 
-3. Built multiple production-inspired cloud projects covering:
+### Built multiple production-inspired cloud projects covering:
 
-      - Infrastructure as Code with Terraform
-      - Containerization using Docker
-      - Kubernetes deployments on Amazon EKS
-      - Amazon ECS Fargate deployments
-      - CI/CD automation using GitHub Actions
-      - AWS networking, compute, storage, monitoring, and security
-      - Production-style monitoring and troubleshooting
+- Infrastructure as Code with Terraform
+- Containerization using Docker
+- Kubernetes deployments on Amazon EKS
+- Amazon ECS Fargate deployments
+- CI/CD automation using GitHub Actions
+- AWS networking, compute, storage, monitoring, and security
+- Production-style monitoring and troubleshooting
 
 I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Support Engineer**, where I can contribute to building reliable and scalable cloud platforms while continuing to grow as an engineer.
 
@@ -35,12 +35,12 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 # Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" style="margin-right:25px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="55" style="margin-right:25px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" style="margin-right:25px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="55" style="margin-right:25px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55" style="margin-right:25px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" style="margin-right:25px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" style="margin-right:45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="55" style="margin-right:45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" style="margin-right:45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="55" style="margin-right:45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55" style="margin-right:45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" style="margin-right:45px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" />
 </p>
 
