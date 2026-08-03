@@ -2,7 +2,7 @@
 
 ## Cloud & DevOps Engineer
 
-Building production-inspired cloud infrastructure using **AWS, Terraform, Docker, Kubernetes, GitHub Actions, and Linux.**
+I build scalable cloud infrastructure, automate deployments, and deploy containerized applications on AWS using modern DevOps practices.
 
 <p align="left">
 <a href="https://www.rohanirkullawar.in"><img src="https://img.shields.io/badge/%20Portfolio-3B4252?style=for-the-badge"></a>
@@ -14,11 +14,21 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 
 # About Me
 
-I'm a Computer Science graduate and aspiring Cloud & DevOps Engineer focused on building production-inspired infrastructure on AWS.
+1. Computer Science graduate from **SR University**
 
-I enjoy designing scalable cloud architectures, automating deployments with CI/CD, and managing infrastructure using Terraform, Docker, Kubernetes, and GitHub Actions. My projects emphasize real-world scenarios including infrastructure provisioning, container orchestration, monitoring, security, and deployment automation.
+2. Focused on **Cloud & DevOps Engineering**
 
-I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Support Engineer**, where I can contribute, learn from experienced teams, and continue building reliable cloud systems.
+3. Built multiple production-inspired cloud projects covering:
+
+- Infrastructure as Code with Terraform
+- Containerization using Docker
+- Kubernetes deployments on Amazon EKS
+- Amazon ECS Fargate deployments
+- CI/CD automation using GitHub Actions
+- AWS networking, compute, storage, monitoring, and security
+- Production-style monitoring and troubleshooting
+
+I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Support Engineer**, where I can contribute to building reliable and scalable cloud platforms while continuing to grow as an engineer.
 
 ---
 
