@@ -1,19 +1,21 @@
-# Hi, I'm Rohan 👋
+# Hi, I'm Rohan Irkullawar
 
 ### Cloud & DevOps Engineer
 
 Building production-inspired cloud infrastructure using **AWS, Terraform, Docker, Kubernetes, GitHub Actions, and Linux.**
 
 <p align="left">
-  <a href="https://rohanirkullawar.in">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-rohanirkullawar.in-0A0A0A?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:irkullawarrohan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.rohanirkullawar.in">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:irkullawarrohan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
