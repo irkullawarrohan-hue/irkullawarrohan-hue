@@ -12,15 +12,13 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 
 
 <a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 
 <a href="mailto:irkullawarrohan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
 ---
 
 # 🚀 About Me
