@@ -10,7 +10,7 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 <a href="mailto:irkullawarrohan@gmail.com" style="margin-left:15px;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
+---
 
 # About Me
 
@@ -20,6 +20,7 @@ I enjoy designing scalable cloud architectures, automating deployments with CI/C
 
 I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Support Engineer**, where I can contribute, learn from experienced teams, and continue building reliable cloud systems.
 
+---
 
 # Tech Stack
 
@@ -33,31 +34,26 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" />
 </p>
 
-
+---
 
 # AWS Services
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=alb" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=amplify" height="50"/>
-  
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=amplify" height="52"/>
 </p>
 
+---
 
-
-# 📫 Connect With Me
+# Connect With Me
 
 🌐 Portfolio: https://www.rohanirkullawar.in
 
