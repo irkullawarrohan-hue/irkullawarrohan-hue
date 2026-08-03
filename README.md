@@ -5,19 +5,17 @@
 Building production-inspired cloud infrastructure using **AWS, Terraform, Docker, Kubernetes, GitHub Actions, and Linux.**
 
 <p align="left">
-
 <a href="https://www.rohanirkullawar.in">
-<img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=flat&labelColor=111111&color=111111"/>
+<img src="https://img.shields.io/badge/%20Portfolio-3B4252?style=for-the-badge"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
-
+&nbsp;
 <a href="mailto:irkullawarrohan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=flat&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
-
 </p>
 
 ---
