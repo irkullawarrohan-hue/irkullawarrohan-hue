@@ -6,12 +6,12 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 
 <p align="left">
 <a href="https://www.rohanirkullawar.in"><img src="https://img.shields.io/badge/%20Portfolio-3B4252?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/" style="margin-left:13px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:irkullawarrohan@gmail.com" style="margin-left:13px;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rohan-irkullawar-393484297/" style="margin-left:15px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:irkullawarrohan@gmail.com" style="margin-left:15px;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
----
+--
 
 ## About Me
 
@@ -25,12 +25,12 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 # Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="55" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="55" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="55" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="55" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" style="margin-right:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" />
 </p>
 
