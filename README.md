@@ -38,10 +38,6 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 
 # AWS Services
 
-## ☁️ AWS Services
-
-## ☁️ AWS Services
-
 <p align="left">
 
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
@@ -77,17 +73,6 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
-
----
-
-# Connect With Me
-
-🌐 Portfolio: https://www.rohanirkullawar.in
-
-💼 LinkedIn: https://www.linkedin.com/in/rohan-irkullawar-393484297/
-
-📧 Email: irkullawarrohan@gmail.com
-
 
 <p align="center">
 Building, learning, and improving one cloud project at a time.
