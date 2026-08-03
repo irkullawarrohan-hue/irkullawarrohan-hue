@@ -51,9 +51,7 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 
 ### 💻 Languages & OS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -75,27 +73,10 @@ EC2 • IAM • VPC • ECS • ECR • ALB • CloudWatch • Lambda • SNS �
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irkullawarrohan-hue&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irkullawarrohan-hue&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=irkullawarrohan-hue&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
-🌐 Portfolio: https://rohanirkullawar.in
+🌐 Portfolio: https://www.rohanirkullawar.in
 
 💼 LinkedIn: https://www.linkedin.com/in/rohan-irkullawar-393484297/
 
