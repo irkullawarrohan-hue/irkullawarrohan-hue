@@ -13,40 +13,27 @@ Building production-inspired cloud infrastructure using **AWS, Terraform, Docker
 
 ---
 
-# 🚀 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science Graduate from SR University, Warangal
-- ☁️ Specializing in Cloud & DevOps Engineering
-- 🏗️ Passionate about Infrastructure as Code, CI/CD, Cloud Automation, and Container Platforms
-- ⚙️ Building production-inspired AWS projects to understand how modern cloud systems operate
-- 🌱 Continuously learning and improving through real-world engineering projects
+I'm a Computer Science graduate and aspiring Cloud & DevOps Engineer focused on building production-inspired infrastructure on AWS.
+
+I enjoy designing scalable cloud architectures, automating deployments with CI/CD, and managing infrastructure using Terraform, Docker, Kubernetes, and GitHub Actions. My projects emphasize real-world scenarios including infrastructure provisioning, container orchestration, monitoring, security, and deployment automation.
+
+I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Support Engineer**, where I can contribute, learn from experienced teams, and continue building reliable cloud systems.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### 🏗 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonaws)
-
-### 🚀 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-### 📊 Monitoring
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
-### 💻 Languages & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" />
+</p>
 
 ---
 
