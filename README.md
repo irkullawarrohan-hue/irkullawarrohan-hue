@@ -14,19 +14,19 @@ I build scalable cloud infrastructure, automate deployments, and deploy containe
 
 # About Me
 
-Computer Science graduate from **SR University**
+1. Computer Science graduate from **SR University**
 
-Focused on **Cloud & DevOps Engineering**
+2. Focused on **Cloud & DevOps Engineering**
 
-Built multiple production-inspired cloud projects covering:
+3. Built multiple production-inspired cloud projects covering:
 
-- Infrastructure as Code with Terraform
-- Containerization using Docker
-- Kubernetes deployments on Amazon EKS
-- Amazon ECS Fargate deployments
-- CI/CD automation using GitHub Actions
-- AWS networking, compute, storage, monitoring, and security
-- Production-style monitoring and troubleshooting
+      - Infrastructure as Code with Terraform
+      - Containerization using Docker
+      - Kubernetes deployments on Amazon EKS
+      - Amazon ECS Fargate deployments
+      - CI/CD automation using GitHub Actions
+      - AWS networking, compute, storage, monitoring, and security
+      - Production-style monitoring and troubleshooting
 
 I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**, or **AWS Cloud Support Engineer**, where I can contribute to building reliable and scalable cloud platforms while continuing to grow as an engineer.
 
