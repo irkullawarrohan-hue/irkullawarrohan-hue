@@ -38,17 +38,20 @@ I'm currently seeking opportunities as a **Cloud Engineer**, **DevOps Engineer**
 
 # AWS Services
 
+## ☁️ AWS Services
+
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="52"/>&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="52"/>&nbsp;&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="52"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=amplify" height="52"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eks" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=alb" height="52"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=codepipeline" height="52"/>
 </p>
 
 ---
